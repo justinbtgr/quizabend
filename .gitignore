@@ -1,0 +1,21 @@
+# Lokale Zugangstokens und Spielstand (werden beim ersten Start neu erzeugt)
+data/
+
+# Mitgelieferte Node-Laufzeit (85 MB) - stattdessen Node.js >= 22 installieren
+runtime/
+
+# Urheberrechtlich geschützte oder nicht frei lizenzierte Medien
+assets/songs/originale/
+assets/songs/covers/
+assets/bilderraten/
+assets/higher/
+
+# Testartefakte
+outputs/
+test/screenshots/
+
+# Allgemein
+node_modules/
+*.log
+.DS_Store
+Thumbs.db

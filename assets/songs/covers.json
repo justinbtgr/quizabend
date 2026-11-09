@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "title": "Seven Nation Army",
+    "matchedTitle": "Seven Nation Army",
+    "artist": "The White Stripes",
+    "album": "Seven Nation Army - Single",
+    "file": "assets/songs/covers/1.jpg",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f3/73/b8/f373b8f6-84bf-171f-c802-19fb3a10c57f/886448916345.jpg/600x600bb.jpg",
+    "sourceUrl": "https://music.apple.com/de/album/seven-nation-army/1543262835?i=1543262843&uo=4",
+    "license": "Album/single artwork; rights belong to publisher"
+  },
+  {
+    "id": 2,
+    "title": "When Love Takes Over",
+    "matchedTitle": "When Love Takes Over (feat. Kelly Rowland)",
+    "artist": "David Guetta",
+    "album": "When Love Takes Over (feat. Kelly Rowland)",
+    "file": "assets/songs/covers/2.jpg",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/b3/d6/98/b3d698f8-9169-f7f1-dbbd-fbfc5d19516b/5099996406557.jpg/600x600bb.jpg",
+    "sourceUrl": "https://music.apple.com/de/album/when-love-takes-over-feat-kelly-rowland/699842586?i=699843064&uo=4",
+    "license": "Album/single artwork; rights belong to publisher"
+  },
+  {
+    "id": 3,
+    "title": "Still D.R.E.",
+    "matchedTitle": "Still D.R.E. (feat. Snoop Dogg)",
+    "artist": "Dr. Dre",
+    "album": "2001",
+    "file": "assets/songs/covers/3.jpg",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/27/6b/4c/276b4c69-99cb-6209-2fd8-3edd17ccfd06/00602517641228.rgb.jpg/600x600bb.jpg",
+    "sourceUrl": "https://music.apple.com/de/album/still-d-r-e-feat-snoop-dogg/1444156266?i=1444156738&uo=4",
+    "license": "Album/single artwork; rights belong to publisher"
+  },
+  {
+    "id": 4,
+    "title": "Royals",
+    "matchedTitle": "Royals",
+    "artist": "Lorde",
+    "album": "The Love Club EP",
+    "file": "assets/songs/covers/4.jpg",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b9/e2/d0/b9e2d0af-8ce2-e078-d4e2-eccf24d7e206/12UMGIM55707.rgb.jpg/600x600bb.jpg",
+    "sourceUrl": "https://music.apple.com/de/album/royals/1594982748?i=1594982922&uo=4",
+    "license": "Album/single artwork; rights belong to publisher"
+  },
+  {
+    "id": 5,
+    "title": "Willst du",
+    "matchedTitle": "Willst du",
+    "artist": "Alligatoah",
+    "album": "Willst du - Single",
+    "file": "assets/songs/covers/5.jpg",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/1d/e4/18/1de41844-650a-0987-8cec-89cb7015cb32/cover.jpg/600x600bb.jpg",
+    "sourceUrl": "https://music.apple.com/de/album/willst-du/1684353865?i=1684353873&uo=4",
+    "license": "Album/single artwork; rights belong to publisher"
+  },
+  {
+    "id": 6,
+    "title": "Viva la Vida",
+    "matchedTitle": "Viva La Vida",
+    "artist": "Coldplay",
+    "album": "Viva La Vida or Death and All His Friends",
+    "file": "assets/songs/covers/6.jpg",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/52/aa/85/52aa851f-15b7-6322-f91f-df84b15b7b19/190295978044.jpg/600x600bb.jpg",
+    "sourceUrl": "https://music.apple.com/de/album/viva-la-vida/1122773394?i=1122773680&uo=4",
+    "license": "Album/single artwork; rights belong to publisher"
+  },
+  {
+    "id": 7,
+    "title": "Call on Me",
+    "matchedTitle": "Call on Me",
+    "artist": "Eric Prydz",
+    "album": "Call On Me (Remixes) - EP",
+    "file": "assets/songs/covers/7.jpg",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e1/b2/85/e1b285a1-1482-e555-fea4-7ec1c2ed856e/5051823143257.jpg/600x600bb.jpg",
+    "sourceUrl": "https://music.apple.com/de/album/call-on-me/1216950866?i=1216951257&uo=4",
+    "license": "Album/single artwork; rights belong to publisher"
+  },
+  {
+    "id": 8,
+    "title": "Hymn for the Weekend",
+    "matchedTitle": "Hymn for the Weekend",
+    "artist": "Coldplay",
+    "album": "A Head Full of Dreams",
+    "file": "assets/songs/covers/8.jpg",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/c8/0a/6d/c80a6df9-e55a-fb83-0311-f4776984ac67/mzm.lasidxkv.jpg/600x600bb.jpg",
+    "sourceUrl": "https://music.apple.com/de/album/hymn-for-the-weekend/1053933969?i=1053934844&uo=4",
+    "license": "Album/single artwork; rights belong to publisher"
+  },
+  {
+    "id": 9,
+    "title": "Thunderstruck",
+    "matchedTitle": "Thunderstruck",
+    "artist": "AC/DC",
+    "album": "Iron Man 2",
+    "file": "assets/songs/covers/9.jpg",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/bb/a2/f0/bba2f0d7-4d9e-c617-d49e-3ae02fd5d440/dj.xbkfgllk.jpg/600x600bb.jpg",
+    "sourceUrl": "https://music.apple.com/de/album/thunderstruck/575998519?i=575998661&uo=4",
+    "license": "Album/single artwork; rights belong to publisher"
+  },
+  {
+    "id": 10,
+    "title": "Eine Insel mit zwei Bergen",
+    "matchedTitle": "Eine Insel mit zwei Bergen",
+    "artist": "Dolls United",
+    "album": "Gut gebrüllt!",
+    "file": "assets/songs/covers/10.jpg",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/51/6b/13/516b13fa-72ca-bfc4-abf1-a151da5cc656/5026854170961.jpg/600x600bb.jpg",
+    "sourceUrl": "https://music.apple.com/de/album/eine-insel-mit-zwei-bergen/1849441492?i=1849441493&uo=4",
+    "license": "Album/single artwork; rights belong to publisher"
+  },
+  {
+    "id": 11,
+    "title": "Beauty and a Beat",
+    "matchedTitle": "Beauty and a Beat (feat. Nicki Minaj)",
+    "artist": "Justin Bieber",
+    "album": "Believe",
+    "file": "assets/songs/covers/11.jpg",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/bd/89/97/bd89971c-fc5a-47dd-5e90-a433d1b9e11f/12UMGIM31898.rgb.jpg/600x600bb.jpg",
+    "sourceUrl": "https://music.apple.com/de/album/beauty-and-a-beat-feat-nicki-minaj/1440804754?i=1440805856&uo=4",
+    "license": "Album/single artwork; rights belong to publisher"
+  },
+  {
+    "id": 12,
+    "title": "Unwritten",
+    "matchedTitle": "Unwritten",
+    "artist": "Natasha Bedingfield",
+    "album": "Unwritten",
+    "file": "assets/songs/covers/12.jpg",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/dd/1c/1bdd1cf6-c75e-e174-1fda-65d320a4e178/ticket.ejbavdpq.jpg/600x600bb.jpg",
+    "sourceUrl": "https://music.apple.com/de/album/unwritten/430514888?i=430514893&uo=4",
+    "license": "Album/single artwork; rights belong to publisher"
+  },
+  {
+    "id": 13,
+    "title": "Stan",
+    "matchedTitle": "Stan (feat. Dido)",
+    "artist": "Eminem",
+    "album": "The Marshall Mathers LP",
+    "file": "assets/songs/covers/13.jpg",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ea/ac/03/eaac03e5-8e9d-847e-d5b9-af7dee6a970b/00606949063221.rgb.jpg/600x600bb.jpg",
+    "sourceUrl": "https://music.apple.com/de/album/stan-feat-dido/1440906504?i=1440906513&uo=4",
+    "license": "Album/single artwork; rights belong to publisher"
+  },
+  {
+    "id": 14,
+    "title": "Candy Shop",
+    "matchedTitle": "Candy Shop (feat. Olivia)",
+    "artist": "50 Cent",
+    "album": "Best of 50 Cent",
+    "file": "assets/songs/covers/14.jpg",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/05/99/52/05995244-97d5-3f3d-7c7d-638aa87e68c3/17UMGIM08624.rgb.jpg/600x600bb.jpg",
+    "sourceUrl": "https://music.apple.com/de/album/candy-shop-feat-olivia/1440877068?i=1440877262&uo=4",
+    "license": "Album/single artwork; rights belong to publisher"
+  },
+  {
+    "id": 15,
+    "title": "Ka-Ching!",
+    "matchedTitle": "Ka-Ching! (Red \"Pop\" Version)",
+    "artist": "Shania Twain",
+    "album": "Up! (Red \"Pop\" and Blue \"International\" Versions)",
+    "file": "assets/songs/covers/15.jpg",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/df/dd/c4/dfddc4cb-6e98-bf1b-37ff-033ede3e4b32/06UMGIM60160.rgb.jpg/600x600bb.jpg",
+    "sourceUrl": "https://music.apple.com/de/album/ka-ching-red-pop-version/1440745997?i=1440746854&uo=4",
+    "license": "Album/single artwork; rights belong to publisher"
+  }
+]

@@ -1,0 +1,140 @@
+{
+  "notes": "Startpunkte wurden technisch anhand des anfaenglichen Pegels vorgeschlagen und muessen in der Startvorschau bestaetigt werden. Hoerbare Musikvideo-Intros koennen eine manuelle Korrektur erfordern.",
+  "songs": [
+    {
+      "id": 1,
+      "title": "Seven Nation Army",
+      "artist": "The White Stripes",
+      "asset": "originale/01_seven_nation_army.m4a",
+      "assetKind": "local",
+      "suggestedStartSeconds": 3.08,
+      "startConfirmed": false
+    },
+    {
+      "id": 2,
+      "title": "When Love Takes Over",
+      "artist": "David Guetta feat. Kelly Rowland",
+      "asset": "originale/02_when_love_takes_over.m4a",
+      "assetKind": "local",
+      "suggestedStartSeconds": 0.0,
+      "startConfirmed": false
+    },
+    {
+      "id": 3,
+      "title": "Still D.R.E.",
+      "artist": "Dr. Dre feat. Snoop Dogg",
+      "asset": "originale/03_still_dre.m4a",
+      "assetKind": "local",
+      "suggestedStartSeconds": 18.0,
+      "startConfirmed": false
+    },
+    {
+      "id": 4,
+      "title": "Royals",
+      "artist": "Lorde",
+      "asset": "originale/04_royals.m4a",
+      "assetKind": "local",
+      "suggestedStartSeconds": 0.275,
+      "startConfirmed": false
+    },
+    {
+      "id": 5,
+      "title": "Willst du",
+      "artist": "Alligatoah",
+      "asset": "originale/05_willst_du.m4a",
+      "assetKind": "local",
+      "suggestedStartSeconds": 0.16,
+      "startConfirmed": false
+    },
+    {
+      "id": 6,
+      "title": "Viva la Vida",
+      "artist": "Coldplay",
+      "asset": "originale/06_viva_la_vida.m4a",
+      "assetKind": "local",
+      "suggestedStartSeconds": 0.77,
+      "startConfirmed": false
+    },
+    {
+      "id": 7,
+      "title": "Call on Me",
+      "artist": "Eric Prydz",
+      "asset": "originale/07_call_on_me.m4a",
+      "assetKind": "local",
+      "suggestedStartSeconds": 6.29,
+      "startConfirmed": false
+    },
+    {
+      "id": 8,
+      "title": "Hymn for the Weekend",
+      "artist": "Coldplay",
+      "asset": "originale/08_hymn_for_the_weekend.m4a",
+      "assetKind": "local",
+      "suggestedStartSeconds": 0.14,
+      "startConfirmed": false
+    },
+    {
+      "id": 9,
+      "title": "Thunderstruck",
+      "artist": "AC/DC",
+      "asset": "originale/09_thunderstruck.m4a",
+      "assetKind": "local",
+      "suggestedStartSeconds": 0.71,
+      "startConfirmed": false
+    },
+    {
+      "id": 10,
+      "title": "Beat It",
+      "artist": "Michael Jackson",
+      "asset": "originale/10_beat_it.m4a",
+      "assetKind": "local",
+      "suggestedStartSeconds": 0.3,
+      "startConfirmed": false
+    },
+    {
+      "id": 11,
+      "title": "Beauty and a Beat",
+      "artist": "Justin Bieber feat. Nicki Minaj",
+      "asset": "originale/11_beauty_and_a_beat.m4a",
+      "assetKind": "local",
+      "suggestedStartSeconds": 25.3,
+      "startConfirmed": false
+    },
+    {
+      "id": 12,
+      "title": "Unwritten",
+      "artist": "Natasha Bedingfield",
+      "asset": "originale/12_unwritten.m4a",
+      "assetKind": "local",
+      "suggestedStartSeconds": 0.31,
+      "startConfirmed": false
+    },
+    {
+      "id": 13,
+      "title": "Stan",
+      "artist": "Eminem feat. Dido",
+      "asset": "originale/13_stan.m4a",
+      "assetKind": "local",
+      "suggestedStartSeconds": 13.7,
+      "startConfirmed": false
+    },
+    {
+      "id": 14,
+      "title": "Candy Shop",
+      "artist": "50 Cent feat. Olivia",
+      "asset": "originale/14_candy_shop.m4a",
+      "assetKind": "local",
+      "suggestedStartSeconds": 17.0,
+      "startConfirmed": false
+    },
+    {
+      "id": 15,
+      "title": "Ka-Ching!",
+      "artist": "Shania Twain",
+      "asset": "originale/15_ka_ching.m4a",
+      "assetKind": "local",
+      "suggestedStartSeconds": 9.3,
+      "startConfirmed": false
+    }
+  ]
+}

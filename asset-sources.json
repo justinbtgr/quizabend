@@ -1,0 +1,1520 @@
+{
+  "note": "Benötigte lokale Motive; fehlende Bilder werden klar markiert. Quellen und Lizenz nach Beschaffung ergänzen.",
+  "assets": [
+    {
+      "id": "channels-0",
+      "name": "MrBeast",
+      "category": "channels",
+      "desired": "Kanalbild / Profilbild",
+      "file": "assets/higher/channels-0.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "MrBeast",
+      "sourceUrl": "https://www.youtube.com/@mrbeast?cbrd=1&ucbcb=1",
+      "author": "Official YouTube channel: MrBeast",
+      "license": "Channel profile image; rights belong to the channel owner",
+      "status": "downloaded",
+      "imageUrl": "https://yt3.googleusercontent.com/nxYrc_1_2f77DoBadyxMTmv7ZpRZapHR5jbuYe7PlPd5cIRJxtNNEYyOC0ZsxaDyJJzXrnJiuDE=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "channels-1",
+      "name": "PewDiePie",
+      "category": "channels",
+      "desired": "Kanalbild / Profilbild",
+      "file": "assets/higher/channels-1.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "PewDiePie",
+      "sourceUrl": "https://www.youtube.com/@pewdiepie?cbrd=1&ucbcb=1",
+      "author": "Official YouTube channel: PewDiePie",
+      "license": "Channel profile image; rights belong to the channel owner",
+      "status": "downloaded",
+      "imageUrl": "https://yt3.googleusercontent.com/vik8mAiwHQbXiFyKfZ3__p55_VBdGvwxPpuPJBBwdbF0PjJxikXhrP-C3nLQAMAxGNd_-xQCIg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "channels-2",
+      "name": "Dude Perfect",
+      "category": "channels",
+      "desired": "Kanalbild / Profilbild",
+      "file": "assets/higher/channels-2.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Dude Perfect",
+      "sourceUrl": "https://www.youtube.com/@dudeperfect?cbrd=1&ucbcb=1",
+      "author": "Official YouTube channel: Dude Perfect",
+      "license": "Channel profile image; rights belong to the channel owner",
+      "status": "downloaded",
+      "imageUrl": "https://yt3.googleusercontent.com/nZRsCgyfOVFhBzY-YFV8AhdMcYAybNZ8uttjcsrUGOnGRSVF5yKqRh6XHIs_o03TcbixvlOZ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "channels-3",
+      "name": "IShowSpeed",
+      "category": "channels",
+      "desired": "Kanalbild / Profilbild",
+      "file": "assets/higher/channels-3.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "IShowSpeed",
+      "sourceUrl": "https://www.youtube.com/@IShowSpeed?cbrd=1&ucbcb=1",
+      "author": "Official YouTube channel: IShowSpeed",
+      "license": "Channel profile image; rights belong to the channel owner",
+      "status": "downloaded",
+      "imageUrl": "https://yt3.googleusercontent.com/ieK0j0sDqI_AHDwYxZ2Wly07-R7PG4S3YMtxOWCEe1QH-I0FgimJ92tlydQa6M78YD0VaywCaw=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "channels-4",
+      "name": "Gronkh",
+      "category": "channels",
+      "desired": "Kanalbild / Profilbild",
+      "file": "assets/higher/channels-4.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Gronkh",
+      "sourceUrl": "https://www.youtube.com/@gronkh?cbrd=1&ucbcb=1",
+      "author": "Official YouTube channel: Gronkh",
+      "license": "Channel profile image; rights belong to the channel owner",
+      "status": "downloaded",
+      "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_ko2x8r12BwkrHwYRNEVLUwCkd1MsWA496y7Pr8wX-3c6Y=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "channels-5",
+      "name": "Rewinside",
+      "category": "channels",
+      "desired": "Kanalbild / Profilbild",
+      "file": "assets/higher/channels-5.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Rewinside",
+      "sourceUrl": "https://www.youtube.com/@rewinside?cbrd=1&ucbcb=1",
+      "author": "Official YouTube channel: Rewinside",
+      "license": "Channel profile image; rights belong to the channel owner",
+      "status": "downloaded",
+      "imageUrl": "https://yt3.googleusercontent.com/_Jfp5v4uoNxQTqZULK_qV85WwPoTFx3tm9fb_2nzo68QcD-mDRrp2ey2pJVYZZR-ecqx6AApWg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "channels-6",
+      "name": "MontanaBlack",
+      "category": "channels",
+      "desired": "Kanalbild / Profilbild",
+      "file": "assets/higher/channels-6.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "MontanaBlack",
+      "sourceUrl": "https://www.youtube.com/@MontanaBlack?cbrd=1&ucbcb=1",
+      "author": "Official YouTube channel: MontanaBlack",
+      "license": "Channel profile image; rights belong to the channel owner",
+      "status": "downloaded",
+      "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mkdo5wGpcwpHatRz31PygxW8iWOZqLmbwIfgjvJC7k1m8=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "channels-7",
+      "name": "HandOfBlood",
+      "category": "channels",
+      "desired": "Kanalbild / Profilbild",
+      "file": "assets/higher/channels-7.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "HandOfBlood",
+      "sourceUrl": "https://www.youtube.com/@HandOfBlood?cbrd=1&ucbcb=1",
+      "author": "Official YouTube channel: HandOfBlood",
+      "license": "Channel profile image; rights belong to the channel owner",
+      "status": "downloaded",
+      "imageUrl": "https://yt3.googleusercontent.com/7huR3XlFba3vZlBXsziCrUxVF79dimszyo_eBn80HW2geB5kZ0RLa-IiSgN1cAdZSBZLSBUAJA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "channels-8",
+      "name": "Simplicissimus",
+      "category": "channels",
+      "desired": "Kanalbild / Profilbild",
+      "file": "assets/higher/channels-8.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Simplicissimus (YouTube-Kanal)",
+      "sourceUrl": "https://www.youtube.com/@Simplicissimus?cbrd=1&ucbcb=1",
+      "author": "Official YouTube channel: Simplicissimus",
+      "license": "Channel profile image; rights belong to the channel owner",
+      "status": "downloaded",
+      "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_k-MkUKEf7dq1c82UHYccfhYee9wv6dtyil_JnMHhBemoQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "channels-9",
+      "name": "Knossi",
+      "category": "channels",
+      "desired": "Kanalbild / Profilbild",
+      "file": "assets/higher/channels-9.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Knossi",
+      "sourceUrl": "https://www.youtube.com/@Knossi?cbrd=1&ucbcb=1",
+      "author": "Official YouTube channel: Knossi",
+      "license": "Channel profile image; rights belong to the channel owner",
+      "status": "downloaded",
+      "imageUrl": "https://yt3.googleusercontent.com/Ov056Yba8SaMCCp2tshXyqKerpiTPha9w28e959nKIyMtXOI2WmPBp023zl8TIhbfpbDPgfjPg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "channels-10",
+      "name": "Papaplatte",
+      "category": "channels",
+      "desired": "Kanalbild / Profilbild",
+      "file": "assets/higher/channels-10.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Papaplatte",
+      "sourceUrl": "https://www.youtube.com/@Papaplatte?cbrd=1&ucbcb=1",
+      "author": "Official YouTube channel: Papaplatte",
+      "license": "Channel profile image; rights belong to the channel owner",
+      "status": "downloaded",
+      "imageUrl": "https://yt3.googleusercontent.com/iiIpiznAwvEqKkY90NZ9Ua1Wb0unvSWn0NLAX6LuIdbypwtz6QKF1nFzRVV8ZtuI6gaW1-g2tlM=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "channels-11",
+      "name": "ELoTRiX",
+      "category": "channels",
+      "desired": "Kanalbild / Profilbild",
+      "file": "assets/higher/channels-11.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "ELoTRiX",
+      "sourceUrl": "https://www.youtube.com/@ELoTRiX?cbrd=1&ucbcb=1",
+      "author": "Official YouTube channel: ELoTRiX",
+      "license": "Channel profile image; rights belong to the channel owner",
+      "status": "downloaded",
+      "imageUrl": "https://yt3.googleusercontent.com/CqwKsNVOeMdMkDki0OMkqJ51qquD0bB8-l2acxRMlpPmiuZEw9NxOMmJ3H6TnRRBeHgJ9XUvna8=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "channels-12",
+      "name": "Zarbex",
+      "category": "channels",
+      "desired": "Kanalbild / Profilbild",
+      "file": "assets/higher/channels-12.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Zarbex",
+      "sourceUrl": "https://www.youtube.com/@Zarbex?cbrd=1&ucbcb=1",
+      "author": "Official YouTube channel: Zarbex",
+      "license": "Channel profile image; rights belong to the channel owner",
+      "status": "downloaded",
+      "imageUrl": "https://yt3.googleusercontent.com/IDti5wvkWDSmZ18QG32QEWFFsU9neZ6XrEPXacfoo6kW4FV19Q4TdKhCMVQn8huQQXxNBoUWYA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "id": "channels-13",
+      "name": "Arda Saatçi",
+      "category": "channels",
+      "desired": "Kanalbild / Profilbild",
+      "file": "assets/higher/revised/channels-13.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Arda Saatçi",
+      "sourceUrl": "https://www.youtube.com/@ardasaatci1357",
+      "author": "Official YouTube channel: Arda Saatçi",
+      "license": "Channel profile image; rights belong to the channel owner",
+      "status": "downloaded",
+      "imageUrl": "https://yt3.ggpht.com/qu-2_vtig98ZZXp2itLm7LJp1jrm3lpx1mhx3L3MZJqj2Ysg6GpEFyr1wlSc4cA4UOSUsM9D=s800-c-k-c0x00ffffff-no-rj",
+      "reviewed": true
+    },
+    {
+      "id": "channels-14",
+      "name": "Lord Lamy",
+      "category": "channels",
+      "desired": "Kanalbild / Profilbild",
+      "file": "assets/higher/revised/channels-14.png",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Lord Lamy",
+      "sourceUrl": "https://www.twitch.tv/lamylive",
+      "author": "Vom Nutzer bereitgestellt",
+      "license": "Vom Rechteinhaber für den privaten Quizabend bereitgestellt",
+      "status": "downloaded",
+      "imageUrl": null,
+      "reviewed": true,
+      "userProvided": true
+    },
+    {
+      "id": "companies-0",
+      "name": "Amazon",
+      "category": "companies",
+      "desired": "Logo",
+      "file": "assets/higher/revised/companies-0.png",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Amazon (company)",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Amazon_(company)",
+      "author": "Amazon",
+      "license": "Company trademark; see linked file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Amazon_2024.svg/250px-Amazon_2024.svg.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Amazon_2024.svg",
+      "reviewed": false
+    },
+    {
+      "id": "companies-1",
+      "name": "Walmart",
+      "category": "companies",
+      "desired": "Logo",
+      "file": "assets/higher/revised/companies-1.png",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Walmart",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Walmart",
+      "author": "Walmart",
+      "license": "Company trademark; see linked file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Walmart_logo_%282025%29.svg/250px-Walmart_logo_%282025%29.svg.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Walmart_logo_(2025).svg",
+      "reviewed": false
+    },
+    {
+      "id": "companies-2",
+      "name": "Saudi Aramco",
+      "category": "companies",
+      "desired": "Logo",
+      "file": "assets/higher/revised/companies-2.png",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Saudi Aramco",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Saudi_Aramco",
+      "author": "Saudi Aramco",
+      "license": "Company trademark; see linked file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a7/Saudi_Aramco_logo.svg/250px-Saudi_Aramco_logo.svg.png",
+      "filePage": "https://en.wikipedia.org/wiki/File:Saudi_Aramco_logo.svg",
+      "reviewed": false
+    },
+    {
+      "id": "companies-3",
+      "name": "Apple",
+      "category": "companies",
+      "desired": "Logo",
+      "file": "assets/higher/revised/companies-3.png",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Apple Inc.",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Apple_Inc.",
+      "author": "Apple",
+      "license": "Company trademark; see linked file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/250px-Apple_logo_black.svg.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Apple_logo_black.svg",
+      "reviewed": false
+    },
+    {
+      "id": "companies-4",
+      "name": "Volkswagen",
+      "category": "companies",
+      "desired": "Logo",
+      "file": "assets/higher/revised/companies-4.png",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Volkswagen Group",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Volkswagen",
+      "author": "Volkswagen",
+      "license": "Company trademark; see linked file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/250px-Volkswagen_logo_2019.svg.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Volkswagen_logo_2019.svg",
+      "reviewed": false
+    },
+    {
+      "id": "companies-5",
+      "name": "Nvidia",
+      "category": "companies",
+      "desired": "Logo",
+      "file": "assets/higher/revised/companies-5.png",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Nvidia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nvidia",
+      "author": "Nvidia",
+      "license": "Company trademark; see linked file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/NVIDIA_logo.svg/330px-NVIDIA_logo.svg.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:NVIDIA_logo.svg",
+      "reviewed": false
+    },
+    {
+      "id": "companies-6",
+      "name": "Allianz",
+      "category": "companies",
+      "desired": "Logo",
+      "file": "assets/higher/revised/companies-6.png",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Allianz",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Allianz",
+      "author": "Allianz",
+      "license": "Company trademark; see linked file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Allianz.svg/250px-Allianz.svg.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Allianz.svg",
+      "reviewed": false
+    },
+    {
+      "id": "companies-7",
+      "name": "Nestlé",
+      "category": "companies",
+      "desired": "Logo",
+      "file": "assets/higher/revised/companies-7.png",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Nestlé",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Nestl%C3%A9",
+      "author": "Nestlé",
+      "license": "Company trademark; see linked file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d8/Nestl%C3%A9.svg/250px-Nestl%C3%A9.svg.png",
+      "filePage": "https://en.wikipedia.org/wiki/File:Nestl%C3%A9.svg",
+      "reviewed": false
+    },
+    {
+      "id": "companies-8",
+      "name": "Rewe",
+      "category": "companies",
+      "desired": "Logo",
+      "file": "assets/higher/revised/companies-8.png",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "REWE Group",
+      "sourceUrl": "https://en.wikipedia.org/wiki/REWE",
+      "author": "Rewe",
+      "license": "Company trademark; see linked file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_REWE.svg/250px-Logo_REWE.svg.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Logo_REWE.svg",
+      "reviewed": false
+    },
+    {
+      "id": "companies-9",
+      "name": "Coca-Cola",
+      "category": "companies",
+      "desired": "Logo",
+      "file": "assets/higher/revised/companies-9.png",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "The Coca-Cola Company",
+      "sourceUrl": "https://en.wikipedia.org/wiki/The_Coca-Cola_Company",
+      "author": "Coca-Cola",
+      "license": "Company trademark; see linked file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/120px-Coca-Cola_logo.svg.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Coca-Cola_logo.svg",
+      "reviewed": false
+    },
+    {
+      "id": "companies-10",
+      "name": "Vodafone",
+      "category": "companies",
+      "desired": "Logo",
+      "file": "assets/higher/revised/companies-10.png",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Vodafone",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Vodafone",
+      "author": "Vodafone",
+      "license": "Company trademark; see linked file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/cc/Vodafone_2017_logo.svg/250px-Vodafone_2017_logo.svg.png",
+      "filePage": "https://en.wikipedia.org/wiki/File:Vodafone_2017_logo.svg",
+      "reviewed": false
+    },
+    {
+      "id": "companies-11",
+      "name": "Netflix",
+      "category": "companies",
+      "desired": "Logo",
+      "file": "assets/higher/revised/companies-11.png",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Netflix",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Netflix",
+      "author": "Netflix",
+      "license": "Company trademark; see linked file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Netflix_2016_N_logo.svg/250px-Netflix_2016_N_logo.svg.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Netflix_2016_N_logo.svg",
+      "reviewed": false
+    },
+    {
+      "id": "companies-12",
+      "name": "Lufthansa",
+      "category": "companies",
+      "desired": "Logo",
+      "file": "assets/higher/revised/companies-12.png",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Lufthansa",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lufthansa",
+      "author": "Lufthansa",
+      "license": "Company trademark; see linked file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Lufthansa_Logo_2018.svg/330px-Lufthansa_Logo_2018.svg.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Lufthansa_Logo_2018.svg",
+      "reviewed": false
+    },
+    {
+      "id": "companies-13",
+      "name": "Starbucks",
+      "category": "companies",
+      "desired": "Logo",
+      "file": "assets/higher/revised/companies-13.png",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Starbucks",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Starbucks",
+      "author": "Starbucks",
+      "license": "Company trademark; see linked file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/250px-Starbucks_Corporation_Logo_2011.svg.png",
+      "filePage": "https://en.wikipedia.org/wiki/File:Starbucks_Corporation_Logo_2011.svg",
+      "reviewed": false
+    },
+    {
+      "id": "companies-14",
+      "name": "PayPal",
+      "category": "companies",
+      "desired": "Logo",
+      "file": "assets/higher/revised/companies-14.png",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "PayPal",
+      "sourceUrl": "https://en.wikipedia.org/wiki/PayPal",
+      "author": "PayPal",
+      "license": "Company trademark; see linked file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/PayPal_2024.svg/250px-PayPal_2024.svg.png",
+      "filePage": "https://commons.wikimedia.org/wiki/File:PayPal_2024.svg",
+      "reviewed": false
+    },
+    {
+      "id": "animals-0",
+      "name": "Grönlandhai",
+      "category": "animals",
+      "desired": "Foto",
+      "file": "assets/higher/revised/animals-0.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Greenland shark",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Greenland_shark",
+      "author": "Qilei Cai",
+      "license": "CC BY-SA 3.0",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Somniosus_microcephalus_okeanos.jpg/330px-Somniosus_microcephalus_okeanos.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Somniosus_microcephalus_okeanos.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "animals-1",
+      "name": "Grönlandwal",
+      "category": "animals",
+      "desired": "Foto",
+      "file": "assets/higher/revised/animals-1.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Bowhead whale",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bowhead_whale",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Bowhead_Whale_NOAA.jpg/330px-Bowhead_Whale_NOAA.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Bowhead_Whale_NOAA.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "animals-2",
+      "name": "Galápagos-Riesenschildkröte",
+      "category": "animals",
+      "desired": "Foto",
+      "file": "assets/higher/revised/animals-2.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Galápagos tortoise",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Gal%C3%A1pagos_tortoise",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Galapagos_giant_tortoise_Geochelone_elephantopus.jpg/330px-Galapagos_giant_tortoise_Geochelone_elephantopus.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Galapagos_giant_tortoise_Geochelone_elephantopus.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "animals-3",
+      "name": "Mensch",
+      "category": "animals",
+      "desired": "Foto",
+      "file": "assets/higher/revised/animals-3.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Human",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Human",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Akha_cropped_hires.JPG/330px-Akha_cropped_hires.JPG",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Akha_cropped_hires.JPG",
+      "reviewed": false
+    },
+    {
+      "id": "animals-4",
+      "name": "Afrikanischer Elefant",
+      "category": "animals",
+      "desired": "Foto",
+      "file": "assets/higher/revised/animals-4.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "African elephant",
+      "sourceUrl": "https://en.wikipedia.org/wiki/African_bush_elephant",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/330px-178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "animals-5",
+      "name": "Ara-Papagei",
+      "category": "animals",
+      "desired": "Foto",
+      "file": "assets/higher/revised/animals-5.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Macaw",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Macaw",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Ara_macao%2C_Ara_ararauna_and_Ara_militaris.jpg/330px-Ara_macao%2C_Ara_ararauna_and_Ara_militaris.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Ara_macao%2C_Ara_ararauna_and_Ara_militaris.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "animals-6",
+      "name": "Dromedar",
+      "category": "animals",
+      "desired": "Foto",
+      "file": "assets/higher/revised/animals-6.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Dromedary",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dromedary",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Camelus_dromedarius_in_Nuweiba.jpg/330px-Camelus_dromedarius_in_Nuweiba.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Camelus_dromedarius_in_Nuweiba.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "animals-7",
+      "name": "Nacktmull",
+      "category": "animals",
+      "desired": "Foto",
+      "file": "assets/higher/revised/animals-7.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Naked mole-rat",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Naked_mole-rat",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Webs180130-rat.jpg/330px-Webs180130-rat.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Webs180130-rat.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "animals-8",
+      "name": "Pferd",
+      "category": "animals",
+      "desired": "Foto",
+      "file": "assets/higher/revised/animals-8.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Horse",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Horse",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Nokota_Horses_cropped.jpg/330px-Nokota_Horses_cropped.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Nokota_Horses_cropped.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "animals-9",
+      "name": "Hauskatze",
+      "category": "animals",
+      "desired": "Foto",
+      "file": "assets/higher/revised/animals-9.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Cat",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cat",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Siam_lilacpoint.jpg/330px-Siam_lilacpoint.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Siam_lilacpoint.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "animals-10",
+      "name": "Hund",
+      "category": "animals",
+      "desired": "Foto",
+      "file": "assets/higher/revised/animals-10.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Dog",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Dog",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Huskiesatrest.jpg/330px-Huskiesatrest.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Huskiesatrest.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "animals-11",
+      "name": "Männlicher Löwe",
+      "category": "animals",
+      "desired": "Foto",
+      "file": "assets/higher/revised/animals-11.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Lion",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Lion",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/330px-020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "animals-12",
+      "name": "Kaninchen",
+      "category": "animals",
+      "desired": "Foto",
+      "file": "assets/higher/revised/animals-12.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Rabbit",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Rabbit",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Oryctolagus_cuniculus_Rcdo.jpg/330px-Oryctolagus_cuniculus_Rcdo.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Oryctolagus_cuniculus_Rcdo.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "animals-13",
+      "name": "Fledermaus",
+      "category": "animals",
+      "desired": "Foto",
+      "file": "assets/higher/revised/animals-13.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Bat",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Bat",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Big-eared-townsend-fledermaus.jpg/330px-Big-eared-townsend-fledermaus.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Big-eared-townsend-fledermaus.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "animals-14",
+      "name": "Hausmaus",
+      "category": "animals",
+      "desired": "Foto",
+      "file": "assets/higher/revised/animals-14.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "House mouse",
+      "sourceUrl": "https://en.wikipedia.org/wiki/House_mouse",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mouse_white_background.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "travel-0",
+      "name": "Deutschland",
+      "category": "travel",
+      "desired": "Länderflagge",
+      "file": "assets/higher/travel-0.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Germany",
+      "sourceUrl": "https://flagpedia.net/de",
+      "author": "FlagCDN / Flagpedia",
+      "license": "National flag; see linked source",
+      "status": "downloaded",
+      "imageUrl": "https://flagcdn.com/w640/de.png"
+    },
+    {
+      "id": "travel-1",
+      "name": "Italien",
+      "category": "travel",
+      "desired": "Länderflagge",
+      "file": "assets/higher/travel-1.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Italy",
+      "sourceUrl": "https://flagpedia.net/it",
+      "author": "FlagCDN / Flagpedia",
+      "license": "National flag; see linked source",
+      "status": "downloaded",
+      "imageUrl": "https://flagcdn.com/w640/it.png"
+    },
+    {
+      "id": "travel-2",
+      "name": "Spanien",
+      "category": "travel",
+      "desired": "Länderflagge",
+      "file": "assets/higher/travel-2.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Spain",
+      "sourceUrl": "https://flagpedia.net/es",
+      "author": "FlagCDN / Flagpedia",
+      "license": "National flag; see linked source",
+      "status": "downloaded",
+      "imageUrl": "https://flagcdn.com/w640/es.png"
+    },
+    {
+      "id": "travel-3",
+      "name": "Österreich",
+      "category": "travel",
+      "desired": "Länderflagge",
+      "file": "assets/higher/travel-3.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Austria",
+      "sourceUrl": "https://flagpedia.net/at",
+      "author": "FlagCDN / Flagpedia",
+      "license": "National flag; see linked source",
+      "status": "downloaded",
+      "imageUrl": "https://flagcdn.com/w640/at.png"
+    },
+    {
+      "id": "travel-4",
+      "name": "Frankreich",
+      "category": "travel",
+      "desired": "Länderflagge",
+      "file": "assets/higher/travel-4.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "France",
+      "sourceUrl": "https://flagpedia.net/fr",
+      "author": "FlagCDN / Flagpedia",
+      "license": "National flag; see linked source",
+      "status": "downloaded",
+      "imageUrl": "https://flagcdn.com/w640/fr.png"
+    },
+    {
+      "id": "travel-5",
+      "name": "Türkei",
+      "category": "travel",
+      "desired": "Länderflagge",
+      "file": "assets/higher/travel-5.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Turkey",
+      "sourceUrl": "https://flagpedia.net/tr",
+      "author": "FlagCDN / Flagpedia",
+      "license": "National flag; see linked source",
+      "status": "downloaded",
+      "imageUrl": "https://flagcdn.com/w640/tr.png"
+    },
+    {
+      "id": "travel-6",
+      "name": "Niederlande",
+      "category": "travel",
+      "desired": "Länderflagge",
+      "file": "assets/higher/travel-6.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Netherlands",
+      "sourceUrl": "https://flagpedia.net/nl",
+      "author": "FlagCDN / Flagpedia",
+      "license": "National flag; see linked source",
+      "status": "downloaded",
+      "imageUrl": "https://flagcdn.com/w640/nl.png"
+    },
+    {
+      "id": "travel-7",
+      "name": "Griechenland",
+      "category": "travel",
+      "desired": "Länderflagge",
+      "file": "assets/higher/travel-7.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Greece",
+      "sourceUrl": "https://flagpedia.net/gr",
+      "author": "FlagCDN / Flagpedia",
+      "license": "National flag; see linked source",
+      "status": "downloaded",
+      "imageUrl": "https://flagcdn.com/w640/gr.png"
+    },
+    {
+      "id": "travel-8",
+      "name": "Portugal",
+      "category": "travel",
+      "desired": "Länderflagge",
+      "file": "assets/higher/travel-8.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Portugal",
+      "sourceUrl": "https://flagpedia.net/pt",
+      "author": "FlagCDN / Flagpedia",
+      "license": "National flag; see linked source",
+      "status": "downloaded",
+      "imageUrl": "https://flagcdn.com/w640/pt.png"
+    },
+    {
+      "id": "travel-9",
+      "name": "Dänemark",
+      "category": "travel",
+      "desired": "Länderflagge",
+      "file": "assets/higher/travel-9.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Denmark",
+      "sourceUrl": "https://flagpedia.net/dk",
+      "author": "FlagCDN / Flagpedia",
+      "license": "National flag; see linked source",
+      "status": "downloaded",
+      "imageUrl": "https://flagcdn.com/w640/dk.png"
+    },
+    {
+      "id": "travel-10",
+      "name": "USA",
+      "category": "travel",
+      "desired": "Länderflagge",
+      "file": "assets/higher/travel-10.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "United States",
+      "sourceUrl": "https://flagpedia.net/us",
+      "author": "FlagCDN / Flagpedia",
+      "license": "National flag; see linked source",
+      "status": "downloaded",
+      "imageUrl": "https://flagcdn.com/w640/us.png"
+    },
+    {
+      "id": "travel-11",
+      "name": "Vereinigtes Königreich",
+      "category": "travel",
+      "desired": "Länderflagge",
+      "file": "assets/higher/travel-11.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "United Kingdom",
+      "sourceUrl": "https://flagpedia.net/gb",
+      "author": "FlagCDN / Flagpedia",
+      "license": "National flag; see linked source",
+      "status": "downloaded",
+      "imageUrl": "https://flagcdn.com/w640/gb.png"
+    },
+    {
+      "id": "travel-12",
+      "name": "Polen",
+      "category": "travel",
+      "desired": "Länderflagge",
+      "file": "assets/higher/travel-12.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Poland",
+      "sourceUrl": "https://flagpedia.net/pl",
+      "author": "FlagCDN / Flagpedia",
+      "license": "National flag; see linked source",
+      "status": "downloaded",
+      "imageUrl": "https://flagcdn.com/w640/pl.png"
+    },
+    {
+      "id": "travel-13",
+      "name": "Kroatien",
+      "category": "travel",
+      "desired": "Länderflagge",
+      "file": "assets/higher/travel-13.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Croatia",
+      "sourceUrl": "https://flagpedia.net/hr",
+      "author": "FlagCDN / Flagpedia",
+      "license": "National flag; see linked source",
+      "status": "downloaded",
+      "imageUrl": "https://flagcdn.com/w640/hr.png"
+    },
+    {
+      "id": "travel-14",
+      "name": "Schweiz",
+      "category": "travel",
+      "desired": "Länderflagge",
+      "file": "assets/higher/travel-14.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Switzerland",
+      "sourceUrl": "https://flagpedia.net/ch",
+      "author": "FlagCDN / Flagpedia",
+      "license": "National flag; see linked source",
+      "status": "downloaded",
+      "imageUrl": "https://flagcdn.com/w640/ch.png"
+    },
+    {
+      "id": "buildings-0",
+      "name": "Burj Khalifa",
+      "category": "buildings",
+      "desired": "Foto",
+      "file": "assets/higher/revised/buildings-0.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Burj Khalifa",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Burj_Khalifa",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg/330px-Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Burj_Khalifa_(worlds_tallest_building)_and_the_Dubai_skyline_(25781049892).jpg",
+      "reviewed": false
+    },
+    {
+      "id": "buildings-1",
+      "name": "Shanghai Tower",
+      "category": "buildings",
+      "desired": "Foto",
+      "file": "assets/higher/revised/buildings-1.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Shanghai Tower",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Shanghai_Tower",
+      "author": "Qilei Cai",
+      "license": "CC BY-SA 3.0",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Shanghai_Tower.jpg/960px-Shanghai_Tower.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Shanghai_Tower.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "buildings-2",
+      "name": "Empire State Building",
+      "category": "buildings",
+      "desired": "Foto",
+      "file": "assets/higher/revised/buildings-2.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Empire State Building",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Empire_State_Building",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Empire_State_Building_%28aerial_view%29.jpg/330px-Empire_State_Building_%28aerial_view%29.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Empire_State_Building_(aerial_view).jpg",
+      "reviewed": false
+    },
+    {
+      "id": "buildings-3",
+      "name": "Eiffelturm",
+      "category": "buildings",
+      "desired": "Foto",
+      "file": "assets/higher/revised/buildings-3.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Eiffel Tower",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+      "author": "Jeong seolah",
+      "license": "CC0 1.0",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/The_Eiffel_Tower_in_Paris.jpg/960px-The_Eiffel_Tower_in_Paris.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:The_Eiffel_Tower_in_Paris.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "buildings-4",
+      "name": "Messeturm Frankfurt",
+      "category": "buildings",
+      "desired": "Foto",
+      "file": "assets/higher/revised/buildings-4.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Messeturm",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Messeturm",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Frankfurt_am_Main%2C_MesseTurm.jpg/330px-Frankfurt_am_Main%2C_MesseTurm.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Frankfurt_am_Main%2C_MesseTurm.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "buildings-5",
+      "name": "Sagrada Família",
+      "category": "buildings",
+      "desired": "Foto",
+      "file": "assets/higher/revised/buildings-5.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Sagrada Família",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/SF_maig_2_cropped.jpg/330px-SF_maig_2_cropped.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:SF_maig_2_cropped.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "buildings-6",
+      "name": "Kölner Dom",
+      "category": "buildings",
+      "desired": "Foto",
+      "file": "assets/higher/revised/buildings-6.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Cologne Cathedral",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Cologne_Cathedral",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg/330px-K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "buildings-7",
+      "name": "Cheops-Pyramide",
+      "category": "buildings",
+      "desired": "Foto",
+      "file": "assets/higher/revised/buildings-7.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Great Pyramid of Giza",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg/330px-Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Great_Pyramid_of_Giza_-_Pyramid_of_Khufu.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "buildings-8",
+      "name": "Petersdom",
+      "category": "buildings",
+      "desired": "Foto",
+      "file": "assets/higher/revised/buildings-8.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "St. Peter's Basilica",
+      "sourceUrl": "https://en.wikipedia.org/wiki/St._Peter's_Basilica",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg/330px-Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "buildings-9",
+      "name": "Big Ben / Elizabeth Tower",
+      "category": "buildings",
+      "desired": "Foto",
+      "file": "assets/higher/revised/buildings-9.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Big Ben",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Big_Ben",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg/330px-Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "buildings-10",
+      "name": "Notre-Dame de Paris",
+      "category": "buildings",
+      "desired": "Foto",
+      "file": "assets/higher/revised/buildings-10.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Notre-Dame de Paris",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg/330px-Notre-Dame_de_Paris%2C_4_October_2017.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris%2C_4_October_2017.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "buildings-11",
+      "name": "Allianz Arena",
+      "category": "buildings",
+      "desired": "Foto",
+      "file": "assets/higher/revised/buildings-11.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Allianz Arena",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Allianz_Arena",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Allianz_Arena_2008-02-09.jpg/330px-Allianz_Arena_2008-02-09.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Allianz_Arena_2008-02-09.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "buildings-12",
+      "name": "Brandenburger Tor",
+      "category": "buildings",
+      "desired": "Foto",
+      "file": "assets/higher/revised/buildings-12.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Brandenburg Gate",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Brandenburg_Gate",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Brandenburger_Tor_abends.jpg/330px-Brandenburger_Tor_abends.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_abends.jpg",
+      "reviewed": false
+    },
+    {
+      "id": "buildings-13",
+      "name": "Chinon Center Hofheim",
+      "category": "buildings",
+      "desired": "Foto",
+      "file": "assets/higher/revised/buildings-13.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Chinon Center Hofheim",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chinoncenter_01.jpg",
+      "author": "SB68Manm",
+      "license": "Wikimedia Commons file page; see linked license",
+      "status": "downloaded",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Chinoncenter_01.jpg"
+    },
+    {
+      "id": "buildings-14",
+      "name": "Chinesische Mauer",
+      "category": "buildings",
+      "desired": "Foto",
+      "file": "assets/higher/revised/buildings-14.jpg",
+      "alternativeExtensions": [
+        ".png",
+        ".jpeg",
+        ".webp",
+        ".svg"
+      ],
+      "suggestedWikipediaTitle": "Great Wall of China",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+      "author": "See linked file credit",
+      "license": "See linked Wikimedia file page",
+      "status": "downloaded",
+      "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/330px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+      "filePage": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+      "reviewed": false
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+import {mkdtempSync,rmSync} from 'node:fs';
+import {tmpdir} from 'node:os';
+import {join} from 'node:path';
+import assert from 'node:assert/strict';
+import {createRequire} from 'node:module';
+import {startServer} from '../server.mjs';
+const require=createRequire(import.meta.url),{chromium}=require(process.env.PLAYWRIGHT_PATH||'playwright');
+const dir=mkdtempSync(join(tmpdir(),'quizabend-audio-')),srv=await startServer({port:0,dataDir:dir});
+const browser=await chromium.launch({headless:true,executablePath:process.env.BROWSER_PATH||'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe'});
+try{const page=await browser.newPage();await page.goto(srv.hostUrl);await page.getByRole('button',{name:'♪ Audio aktivieren'}).click();
+ const result=await page.evaluate(async()=>{
+  const audio=await import('/audio.js'),trace=[];
+  const originalStart=AudioBufferSourceNode.prototype.start,originalStop=AudioBufferSourceNode.prototype.stop,oscStart=OscillatorNode.prototype.start,oscStop=OscillatorNode.prototype.stop;
+  AudioBufferSourceNode.prototype.start=function(...args){trace.push({kind:'audio-start',args});return originalStart.apply(this,args);};
+  AudioBufferSourceNode.prototype.stop=function(...args){trace.push({kind:'audio-stop'});return originalStop.apply(this,args);};
+  OscillatorNode.prototype.start=function(...args){trace.push({kind:'buzzer-tone',frequency:this.frequency.value,type:this.type});return oscStart.apply(this,args);};
+  OscillatorNode.prototype.stop=function(...args){trace.push({kind:'tone-stop',args});return oscStop.apply(this,args);};
+  await audio.play('/media/song/0',3.08,.1);audio.sound('buzz',0);
+  const countdownStart=trace.length;for(let i=0;i<4;i++)audio.sound('countdown');audio.sound('timeout');const countdownTrace=trace.slice(countdownStart);
+  const decoded=await audio.decode('/media/song/0');const detected=audio.detect(decoded);
+  const royals=await audio.decode('/media/song/3');
+  const start=0.275,channel=royals.getChannelData(0),samples=channel.slice(Math.floor(start*royals.sampleRate),Math.floor((start+.1)*royals.sampleRate));
+  const royalsPeak=samples.reduce((m,x)=>Math.max(m,Math.abs(x)),0);
+  return {trace,countdownTrace,detected,duration:decoded.duration,royalsDuration:royals.duration,royalsPeak};
+ });
+ assert.equal(result.trace.find(x=>x.kind==='audio-start').args[2],.1);
+ assert.ok(result.trace.findIndex(x=>x.kind==='audio-stop')<result.trace.findIndex(x=>x.kind==='buzzer-tone'));
+ assert.equal(result.countdownTrace.filter(x=>x.kind==='buzzer-tone').length,5);assert.equal(result.countdownTrace.filter(x=>x.kind==='buzzer-tone').at(-1).type,'square');
+ assert.ok(result.detected>=2.9&&result.detected<=3.3);assert.ok(result.duration>20);
+ assert.ok(result.royalsDuration>199&&result.royalsDuration<201);assert.ok(result.royalsPeak>.01,'Royals first 0.1 second snippet must contain audible samples');
+ console.log('Royals: echte M4A im Browser dekodiert, erste 0,1 Sekunden ab 0,275 s enthalten Audiosignal.');
+ console.log('Echte M4A dekodiert; 0,1 s an Web-Audio-Engine übergeben; Songstop vor Teamton; Stille erkannt bei '+result.detected.toFixed(3)+' s.');
+}finally{await browser.close();await srv.close();rmSync(dir,{recursive:true,force:true});}
